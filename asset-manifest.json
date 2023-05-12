@@ -1,0 +1,12 @@
+{
+  "files": {
+    "main.js": "/newappinline/static/js/main.a27ac76c.js",
+    "static/js/787.ec78c698.chunk.js": "/newappinline/static/js/787.ec78c698.chunk.js",
+    "index.html": "/newappinline/index.html",
+    "main.a27ac76c.js.map": "/newappinline/static/js/main.a27ac76c.js.map",
+    "787.ec78c698.chunk.js.map": "/newappinline/static/js/787.ec78c698.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.a27ac76c.js"
+  ]
+}
